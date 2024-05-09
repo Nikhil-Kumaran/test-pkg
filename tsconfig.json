@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    /* Base Options: */
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "target": "es2022",
+    /* Strictness */
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "noEmit": true
+  }
+}
